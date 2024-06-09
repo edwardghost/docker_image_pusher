@@ -2,3 +2,4 @@ shellspec/openwrt:19.07.7
 homeassistant/home-assistant:dev
 xiaoyaliu/alist:latest
 xhofe/alist:latest
+idootop/mi-gpt:latest
