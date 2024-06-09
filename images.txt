@@ -3,3 +3,5 @@ kasmweb/nginx:1.25.3
 python:alpine3.19
 shellspec/openwrt:19.07.7
 homeassistant/home-assistant:dev
+xiaoyaliu/alist:latest
+xhofe/alist:latest
